@@ -1,8 +1,11 @@
 # Opa! 👋
 # Sobre mim:
-🎓 Formado em Ciências da Computação
+<p>
+  🎓 Formado em Ciências da Computação 
+  <br> 
+  💻 Curioso sobre análise de dados
+</p>
 
-💻 Curioso sobre análise de dados
 
 ## Redes Sociais
 
