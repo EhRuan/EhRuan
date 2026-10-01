@@ -3,7 +3,7 @@
 <p>
   🎓 Formado em Ciências da Computação 
   <br> 
-  💻 Curioso sobre análise de dados
+  💻 Analista de Dados
 </p>
 
 
