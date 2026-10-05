@@ -1,5 +1,5 @@
-# Opa! 👋
-# Sobre mim:
+# Hi there 👋
+# About Me :
 <p>
   🎓 Formado em Ciências da Computação 
   <br> 
@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/ruan-louren%C3%A7o/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a>
 </div>
 
-## Tech Skills: 
+## Tech Stack: 
 
 <div>
   <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank" rel="external" alt="Python"></a>
