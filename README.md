@@ -1,9 +1,11 @@
 # Hi there 👋
 # About Me :
 <p>
-  🎓 Formado em Ciências da Computação 
+  🎓 Degree in Computer Science 
   <br> 
-  💻 Analista de Dados
+  💻 Data Analyst
+  <br>
+  ◽ Knowledge of: Web Programmer, Full-Stack Developer
 </p>
 
 
